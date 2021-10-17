@@ -6,7 +6,7 @@ TOD Analysis Tool is a tool to analyze the potential of TOD mode construction. O
 ![1](https://user-images.githubusercontent.com/88954942/137605102-5786452f-2b3e-42dd-b5f2-ccbc509ef682.jpg)
 ## Use Instruction
 - Input the information of one city here
-![QQ截图20211017073533](https://user-images.githubusercontent.com/88954942/137605121-fbd8fcc6-4511-4c11-9433-ebbe8845b2e6.jpg)
+![QQ截图20211017073533](https://user-images.githubusercontent.com/88954942/137605765-87b4dfb2-b9e1-4251-851f-c04f748225d8.jpg)
 - Adjust the number bar to adjust the distance between the stations and each area. （Now it is set to “400m”）
 ![QQ截图20211017073544](https://user-images.githubusercontent.com/88954942/137605128-511be868-e062-4d40-98e8-9749da69ea96.jpg)
 - Add new stations to find suitable construction stations.
