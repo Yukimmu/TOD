@@ -19,7 +19,7 @@ You can make TOD potential maps to show each station with TOD construction poten
 You also can use this tool to find new stations witch will be suitable for TOD construction.
 ![1-1](https://user-images.githubusercontent.com/88954942/137605219-45ea28c5-3d04-49e9-af66-004750e2fe57.jpg)
 - For landscape architects:
-You can learn about the green system around each station.
+You can learn about the green system around each station. When you zoom in, you can clearly see the green space system around each station, which has important guiding significance for the landscape construction of TOD. You can also integrate void land or some abandoned infrastructures into the green system and think about landscape design on these locations.
 ![3-1](https://user-images.githubusercontent.com/88954942/137605224-f9ea9a04-3bce-4375-a8e9-a7cac0287952.jpg)
 - For businesses:
 You can make a better decision about the site of a store or land development.
