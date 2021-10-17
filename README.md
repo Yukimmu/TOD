@@ -5,13 +5,17 @@ The full name of TOD is transit oriented development. It is an urban complex pla
 TOD Analysis Tool is a tool to analyze the potential of TOD mode construction. On a small scale, it can find stations suitable for the development of TOD mode and the green system around each station. On a large scale, it can compare the development of TOD in different countries. Here is a picture of the Grasshopper Definition：
 ![1](https://user-images.githubusercontent.com/88954942/137605102-5786452f-2b3e-42dd-b5f2-ccbc509ef682.jpg)
 ## Use Instruction
-- Input the information of one city here
-![QQ截图20211017073533](https://user-images.githubusercontent.com/88954942/137605765-87b4dfb2-b9e1-4251-851f-c04f748225d8.jpg)
+- Put the city information here
+
+![QQ截图20211017073533](https://user-images.githubusercontent.com/88954942/137605809-d302ee68-7c91-4c94-9fa8-ec7fbcada8b1.jpg)
 - Adjust the number bar to adjust the distance between the stations and each area. （Now it is set to “400m”）
+
 ![QQ截图20211017073544](https://user-images.githubusercontent.com/88954942/137605128-511be868-e062-4d40-98e8-9749da69ea96.jpg)
 - Add new stations to find suitable construction stations.
+
 ![QQ截图20211017073553](https://user-images.githubusercontent.com/88954942/137605130-9288ffa5-7118-43b1-b3c5-55fd31f1aa45.jpg)
 - You can adjust number bar to make potential display clear.
+
 ![QQ截图20211017073559](https://user-images.githubusercontent.com/88954942/137605179-bec39cfe-1924-496f-b33f-d70d90a4bded.jpg)
 ## Tool Function
 - For Urban planners:
