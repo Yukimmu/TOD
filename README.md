@@ -2,35 +2,36 @@
 ## TOD Introduction
 The full name of TOD is transit oriented development. It is an urban complex planning integrating commerce, culture, education and residence, which is established with a radius of 400-800 meters (about 5-10 minutes' walk) centered on public transport stations. Singapore Orchard Road complex, Tokyo Midtown, Hong Kong Kowloon Station and other world classic subway covered urban complexes belong to this kind.
 # TOD Analysis Tool
-TOD Analysis Tool is a tool to analyze the potential of TOD model construction. On a small scale, it can find stations suitable for the development of TOD mode. On a large scale, it can compare the development of TOD in different countries. Here is a picture of the Grasshopper Definition：
-![picture1](https://user-images.githubusercontent.com/88954942/134769956-b0d61978-0fba-47eb-92de-bad0d63f6696.jpg)
+TOD Analysis Tool is a tool to analyze the potential of TOD mode construction. On a small scale, it can find stations suitable for the development of TOD mode and the green system around each station. On a large scale, it can compare the development of TOD in different countries. Here is a picture of the Grasshopper Definition：
+![1](https://user-images.githubusercontent.com/88954942/137605102-5786452f-2b3e-42dd-b5f2-ccbc509ef682.jpg)
 ## Use Instruction
 - Input the information of one city here
-![1](https://user-images.githubusercontent.com/88954942/134771455-d2559c76-8852-4610-b711-7919b2b5356c.jpg)
+![QQ截图20211017073533](https://user-images.githubusercontent.com/88954942/137605121-fbd8fcc6-4511-4c11-9433-ebbe8845b2e6.jpg)
 - Adjust the number bar to adjust the distance between the stations and each area. （Now it is set to “400m”）
-![3](https://user-images.githubusercontent.com/88954942/134771464-421d52fc-950d-4e31-84d1-de02ef642900.jpg)
+![QQ截图20211017073544](https://user-images.githubusercontent.com/88954942/137605128-511be868-e062-4d40-98e8-9749da69ea96.jpg)
 - Add new stations to find suitable construction stations.
-![2](https://user-images.githubusercontent.com/88954942/134771493-bffdf3aa-e48b-489f-aef7-8f0f52cd4731.jpg)
-- According to the TOD development potential map, planners can judge which site has great TOD construction potential and which site needs green space or business district to build TOD (The redder, the greater the potential for construction）.
-![4](https://user-images.githubusercontent.com/88954942/134771497-423416fe-165c-49ee-b33c-24eefd5bf334.jpg)
-![建造潜力表示](https://user-images.githubusercontent.com/88954942/134771504-57550594-6c06-451f-8150-b943af7c93df.jpg)
-- The graph shows the connection status of different land uses and stations. This graph shows that the land use with low connectivity to stations is schools. That means that many schools are not built within a 400-meter radius of the station.
-![5](https://user-images.githubusercontent.com/88954942/134771512-f6213ac0-3565-427c-a5b8-d9d13975deff.jpg)
-## Outcomes
-### Comparison between different stations in one country
-TOD analysis tool can find out the rail transit stations with TOD development potential in the city, and it can let planners see what construction needs to be done if a rail transit station needs to develop into TOD mode. TOD Analysis Tool can also find suitable new stops with the potential to develop TOD by adding sites.
-![建造潜力表示](https://user-images.githubusercontent.com/88954942/134771518-737caf2c-ccc2-47b4-9d18-13a4dbfe9ab3.jpg)
-![建造潜力表示2](https://user-images.githubusercontent.com/88954942/134771522-8720d799-3c5f-4e41-b95a-b5c52b570555.jpg)
-### Comparison between different countries
-TOD analysis tool can compare the development of TOD in different countries, and use the table to show the connection status of various land and stations.
-I used four sites of similar size in different cities to test my definition.
-- Copenhagen
-![哥本哈根总](https://user-images.githubusercontent.com/88954942/134771525-f1fc1041-39d1-46b5-8092-fa9a2138a065.jpg)
-![哥本哈根有潜力的地方](https://user-images.githubusercontent.com/88954942/134771528-ff392a48-34f7-495f-b5d8-d0db79730ac0.jpg)
-![哥本哈根数据](https://user-images.githubusercontent.com/88954942/134771535-d41b202d-baaf-4a27-8954-c1ba9779de88.jpg)![QQ截图20210922211821](https://user-images.githubusercontent.com/88954942/134771542-3aa7f99f-bce7-4bd2-82f7-b2030951b80f.jpg)
-- Manila
-![马尼拉总](https://user-images.githubusercontent.com/88954942/134771560-072e3d50-1bae-4682-9096-fa48343c7f03.jpg)
-![马尼拉有发展潜力的地方](https://user-images.githubusercontent.com/88954942/134771566-f5d430f4-8eb3-4954-bf14-3e1ac0c0e96c.jpg)
-![马尼拉数据](https://user-images.githubusercontent.com/88954942/134771567-134b560b-2151-48bf-8205-80e07dd82538.jpg)![QQ截图20210922211821](https://user-images.githubusercontent.com/88954942/134771568-09cab734-4aaa-4903-b429-6c65f301933c.jpg)
-# Development
-- Now I choose the way of color overlap to show the potential of TOD construction. This may not be a very suitable way of visualization. I need to make the final  outcome clearer.
+![QQ截图20211017073553](https://user-images.githubusercontent.com/88954942/137605130-9288ffa5-7118-43b1-b3c5-55fd31f1aa45.jpg)
+- You can adjust number bar to make potential display clear.
+![QQ截图20211017073559](https://user-images.githubusercontent.com/88954942/137605179-bec39cfe-1924-496f-b33f-d70d90a4bded.jpg)
+## Tool Function
+- For Urban planners:
+You can make TOD potential maps to show each station with TOD construction potential.
+You also can use this tool to find new stations witch will be suitable for TOD construction.
+![1-1](https://user-images.githubusercontent.com/88954942/137605219-45ea28c5-3d04-49e9-af66-004750e2fe57.jpg)
+- For landscape architects:
+You can learn about the green system around each station.
+![3-1](https://user-images.githubusercontent.com/88954942/137605224-f9ea9a04-3bce-4375-a8e9-a7cac0287952.jpg)
+- For businesses:
+You can make a better decision about the site of a store or land development.
+For example, compared with pictures 1 and 2 below, the station in picture 1 is located in a larger white area and serves a larger number of people.  Businesses can choose the first picture site for commercial development because this site may attract more people and they can gain more profit. 
+![QQ截图20211013112156](https://user-images.githubusercontent.com/88954942/137605230-75692266-e55f-4da4-9349-0f793635b508.jpg)
+![QQ截图20211013112213](https://user-images.githubusercontent.com/88954942/137605231-196cff81-9015-4aa2-860b-8340f805451b.jpg)
+## Graph Description
+- The first graph shows the connection status of different land uses and stations.
+- The second graph shows the percentage and number of different TOD potentials.
+![QQ截图20211017073618](https://user-images.githubusercontent.com/88954942/137605232-60b31900-aafd-4e64-9c31-f1725e3dcc17.jpg)![QQ截图20211017073630](https://user-images.githubusercontent.com/88954942/137605234-5c778298-6212-40ba-bef5-0758370103a9.jpg)
+## Final Outcome
+![QQ截图20211013112051](https://user-images.githubusercontent.com/88954942/137605240-a8ac9041-6e46-46ce-93c2-fed65bb09e8c.jpg)
+![QQ截图20211013112108](https://user-images.githubusercontent.com/88954942/137605242-63a2c70e-5020-4725-bb63-ddacf565cae8.jpg)
+Tips： you can also change the style and color to make mapping more presentable！
+![QQ截图20211014142204](https://user-images.githubusercontent.com/88954942/137605244-57fb87c0-d77f-46d7-99f7-f801ccafe5b2.jpg)
